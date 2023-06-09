@@ -4,6 +4,10 @@ const en = {
     cancel: "Cancel",
     back: "Back",
   },
+  questionScreen: {
+    title: "Questions",
+    subtitle: "Answer the questions below to get your results!",
+  },
   welcomeScreen: {
     postscript:
       "psst  — This probably isn't what your app looks like. (Unless your designer handed you these screens, and in that case, ship it!)",
